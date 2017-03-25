@@ -4,7 +4,7 @@ The AGILE 2017 is a raw dataset of rainfall gauges and tweets that are openly av
 
 The dataset contains:
 
-- `rainfall_gauges.csv`: The rainfall data collected from the [National Center for Monitoring and Early Warning of Natural Disasters CEMADEN](http://www.cemaden.gov.br/mapainterativo/). There were 81 active rainfall gauges in the city of São Paulo, Brazil, in the data collection period. The rainfall measurements were provided in linear depth (millimeters) and with two sizes of temporal window: 10 minutes when it was raining and 60 minutes otherwise.
+- `rainfall_gauges.csv`: The rainfall data collected from the [National Center for Monitoring and Early Warning of Natural Disasters CEMADEN](http://www.cemaden.gov.br/mapainterativo/). There were 81 active rainfall gauges in the city of Sao Paulo, Brazil, in the data collection period. The rainfall measurements were provided in linear depth (millimeters) and with two sizes of temporal window: 10 minutes when it was raining and 60 minutes otherwise.
 - `rainfall_gagues_removed.csv`: The rainfall gauges removed due the lack of reliability. There were removed 25 rainfall gauges.
 - `tweets.csv`: The georeferenced tweets retrieved by Twitter Streaming API for the same period and administrative boundaries of rainfall data.
 - `tweets.ts.csv`: The frequency of rainfall-related tweets and all tweets.
