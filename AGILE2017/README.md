@@ -1,6 +1,6 @@
 # AGILE 2017 dataset
 
-The AGILE 2017 is a raw dataset of rainfall gauges and tweets that are openly available in CSV format. This dataset was published at the 20th AGILE Conference through the paper `Mining Rainfall Spatio-Temporal Patterns in Twitter: A Temporal Approach`. See http://www.agora.icmc.usp.br/site/publications/
+The AGILE 2017 is a raw dataset of rainfall gauges and tweets that are openly available in CSV format. This dataset was published at the 20th AGILE Conference through the paper `Mining Rainfall Spatio-Temporal Patterns in Twitter: A Temporal Approach`. See [DOI:10.1007/978-3-319-56759-4_2](http://dx.doi.org/10.1007/978-3-319-56759-4_2)
 
 The dataset contains:
 
