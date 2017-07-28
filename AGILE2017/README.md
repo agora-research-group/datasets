@@ -13,20 +13,22 @@ The dataset contains:
 
 Please, cite the conference paper or dataset below if you use this data in your research:
 
-    Andrade, S. C. De, Restrepo-Estrada, Camilo, Mendiondo, E. M. and de Albuquerque, J.P. (2017) Dataset to support: 'Mining rainfall spatio-temporal patterns in Twitter : a temporal approach'. [Dataset]
+    Andrade, S. C. De, Restrepo-Estrada, Camilo, Mendiondo, E. M. and de Albuquerque, J.P. (2017) 
+    Dataset to support: 'Mining rainfall spatio-temporal patterns in Twitter : a temporal approach'.
 
 BibTex
 
     @misc{AGILE:2017,
-      title       = {Dataset to support: {'Mining rainfall spatio-temporal patterns in Twitter : a temporal approach'}},
+      title       = {Dataset to support: {'Mining rainfall spatio-temporal patterns in Twitter: 
+                     a temporal approach'}},
       author      = {Andrade, S. C. and Restrepo-Estrada, C. and Mendiondo, E. M. and de Albuquerque, J. P.},
       year        = {2017},
       url         = {http://wrap.warwick.ac.uk/87173},
       institution = {University of Warwick}
     }
 
-**Corresponding Author**:  MSc. Sidgley Camargo de Andrade (sidgleyandrade [at] utfpr.edu.br [dot] br)
+**Corresponding Author**:  Sidgley Camargo de Andrade (sidgleyandrade [at] utfpr.edu.br [dot] br)
 
 ## License
 
-AGORA 2017 dataset is published under the Creative Commons License <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/80x15.png" /></a><br/>
+AGILE 2017 dataset is published under the Creative Commons License <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/80x15.png" /></a><br/>
