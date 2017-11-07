@@ -15,8 +15,9 @@ The dataset contains:
 
 Please, cite the article paper or dataset below if you use this data in your research:
 
-    Restrepo-Estrada, C., de Andrade, S. C., Abe, N., Fava, M. C., Mendiondo, E. M., & de Albuquerque, J. P. (2017) 
-    Dataset to support: 'Geo-social media as a proxy for hydrometeorological data for streamflow estimation and to improve flood monitoring'. Computers & Geosciences.
+    Restrepo-Estrada, C., de Andrade, S. C., Abe, N., Fava, M. C., Mendiondo, E. M., & de Albuquerque, J. P. 
+    (2017). Dataset to support: 'Geo-social media as a proxy for hydrometeorological data for streamflow 
+    estimation and to improve flood monitoring'. Computers & Geosciences.
 
 BibTex
 
