@@ -15,18 +15,19 @@ The dataset contains:
 
 Please, cite the article paper or dataset below if you use this data in your research:
 
-    Restrepo-Estrada, C., de Andrade, S. C., Abe, N., Fava, M. C., Mendiondo, E. M., & de Albuquerque, J. P.  (2017) Dataset to support: 'Geo-social media as a proxy for hydrometeorological data for streamflow estimation and to improve flood monitoring'. Computers & Geosciences.
+    Restrepo-Estrada, C., de Andrade, S. C., Abe, N., Fava, M. C., Mendiondo, E. M., & de Albuquerque, J. P. (2017) 
+    Dataset to support: 'Geo-social media as a proxy for hydrometeorological data for streamflow estimation and to improve flood monitoring'. Computers & Geosciences.
 
 BibTex
 
-    @misc{wrap87173,
+    @misc{wrap?????,
         month = {November},
         title = {Dataset to support: 'Geo-social media as a proxy for hydrometeorological data for streamflow estimation and to improve flood monitoring'},
         author = {Restrepo-Estrada, C., de Andrade, S. C., Abe, N., Fava, M. C., Mendiondo, E. M., & de Albuquerque, J. P.},
         publisher = {Centre for Interdisciplinary Methodologies},
         year = {2017},
         keywords = {Social media, Hydrological modelling, Streamflow estimation, Flood monitoring},
-        url = {http://wrap.warwick.ac.uk/...}
+        url = {http://wrap.warwick.ac.uk/wrap?????}
     }
 
 **Corresponding Author**:  Camilo Restrepo-Estrada (camilo.restrepo [at] udea [dot] edu [dot] co)
